@@ -20,7 +20,7 @@
       description: 'An aggregation platform built around a high-throughput, asynchronous ingestion pipeline and a reading experience that stays fast as the library grows.',
       outcomes: ['1,000+ images/min pipeline', 'S3 + CloudFront delivery'],
       stack: ['Svelte', 'Spring Boot', 'Python', 'AWS'],
-      liveUrl: '',
+      liveUrl: 'https://manhwa.tonyprajapati.in',
       repoUrl: links.github,
       tone: 'amber'
     },
