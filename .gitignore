@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.DS_Store
+
+# Source resumes kept in the workspace; the public copy is public/resume.pdf.
+/*.pdf
