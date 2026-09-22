@@ -32,6 +32,8 @@ jobs:
 
       - name: Build site
         run: npm run build
+        env:
+          VITE_BASE_PATH: /
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
